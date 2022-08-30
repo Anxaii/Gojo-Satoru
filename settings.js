@@ -33,7 +33,7 @@ global.packname = 'Anxai-Bot'
 global.author = 'Anxai'
 global.sessionName = 'Anxai'
 global.prefglobal.sessionName = 'Anxai'
-global.prefaa = ['/','!','.','🐦','🐤','🗿']
+global.prefaa = ['/','!','.','#','!','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم ✓',
