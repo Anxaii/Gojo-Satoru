@@ -19,37 +19,38 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.owner = ['+9660559851244']
+global.premium = ['+9660559851244']
+global.ownernomer = '+9660559851244'
+global.ownername = '𝙰𝙽𝚇𝙰𝙸'
+global.botname = '𝙰𝙽𝚇𝙰𝙸-𝙱𝙾𝚃'
+global.footer = '©𝙰𝚗𝚡𝚊𝚒Inc.'
+global.ig = 'https://instagram.com/rip.anzai'
+global.region = 'Saudi Arabia, Riyadh, Riyadh'
+global.sc = 'https://instagram.com/rip.anzai'
+global.myweb = 'https://instagram.com/rip.anzai'
+global.packname = 'Anxai-Bot'
+global.author = 'Anxai'
+global.sessionName = 'Anxai'
+global.prefglobal.sessionName = 'Anxai'
+global.prefaa = ['/','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'تم ✓',
+    admin: 'هذا الخيار للمشرفين فقط! !',
+    botAdmin: 'يجب ان يكون البوت مشرف اولا!',
+    owner: 'هذا الخيار للمالك فقط!',
+    group: 'هذا الخيار للمجموعات فقط؛!',
+    private: 'هذا الخيار للخاص فقط! ',
+    bot: 'هذا الخيار للبوت فقط',
+    wait: 'انتظر لحظة... ',
+    error: 'خطأ! ربما العنوان خاطئ🤔!',
+    endLimit: 'حدك اليومي قد انتهى, الحد سيعاد تعيينه كل 12 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: Infinity,
+    monayawal: 1000000
 }
    global.rpg = {
    darahawal: 100,
